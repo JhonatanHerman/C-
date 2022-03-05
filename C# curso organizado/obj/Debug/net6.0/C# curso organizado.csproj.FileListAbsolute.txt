@@ -1,0 +1,15 @@
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\bin\Debug\net6.0\C# curso organizado.exe
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\bin\Debug\net6.0\C# curso organizado.deps.json
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\bin\Debug\net6.0\C# curso organizado.runtimeconfig.json
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\bin\Debug\net6.0\C# curso organizado.dll
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\bin\Debug\net6.0\ref\C# curso organizado.dll
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\bin\Debug\net6.0\C# curso organizado.pdb
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\obj\Debug\net6.0\C# curso organizado.csproj.AssemblyReference.cache
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\obj\Debug\net6.0\C# curso organizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\obj\Debug\net6.0\C# curso organizado.AssemblyInfoInputs.cache
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\obj\Debug\net6.0\C# curso organizado.AssemblyInfo.cs
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\obj\Debug\net6.0\C# curso organizado.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\obj\Debug\net6.0\C# curso organizado.dll
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\obj\Debug\net6.0\ref\C# curso organizado.dll
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\obj\Debug\net6.0\C# curso organizado.pdb
+C:\Users\jhona\Desktop\Programas\ProgramasBackup\C# curso organizado\obj\Debug\net6.0\C# curso organizado.genruntimeconfig.cache

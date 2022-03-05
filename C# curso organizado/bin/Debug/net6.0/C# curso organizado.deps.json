@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C# curso organizado/1.0.0": {
+        "runtime": {
+          "C# curso organizado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# curso organizado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
